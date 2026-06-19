@@ -10,7 +10,7 @@
   <a href="https://github.com/chandrakiran-05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:chandrakiran2006s@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.dev">
@@ -175,7 +175,7 @@ B.Tech CSE (AI & ML) student · HPE Intern · AI & Cloud enthusiast
 | 💼 LinkedIn | [chandra-kiran-rudra-6854a6300](https://www.linkedin.com/in/chandra-kiran-rudra-6854a6300) |
 | 🐙 GitHub | [chandrakiran-05](https://github.com/chandrakiran-05) |
 | 🌐 Portfolio | [your-portfolio.dev](https://your-portfolio.dev) *(coming soon)* |
-| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
+| 📧 Email | [chandrakiran2006s@gmail.com](mailto:chandrakiran2006s@gmail.com) |
 
 </div>
 
