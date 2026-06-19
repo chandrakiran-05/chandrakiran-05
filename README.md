@@ -26,14 +26,12 @@
 
 ## About Me
 
-I'm a **B.Tech CSE (AI & ML) student** in my 4th semester, currently interning at **Hewlett Packard Enterprise (HPE)** where I work with cloud and server infrastructure technologies. I'm passionate about building AI-driven systems that solve real-world problems, and I'm actively expanding into cloud computing, backend development, and intelligent automation.
+B.Tech CSE (AI & ML) student · HPE Intern · AI & Cloud enthusiast
 
-- 🔭 Currently interning at **Hewlett Packard Enterprise** — exploring cloud, virtualization & data center infra
-- 🤖 Deeply interested in **AI, Machine Learning, Deep Learning, and Computer Vision**
-- ☁️ Learning **Cloud Computing, Networking, Leaf-Spine Topology & Server Infrastructure**
-- 🛠️ Building practical projects across AI, cybersecurity, and backend systems
-- 🎯 Goal: Contribute to impactful open-source projects and grow as an AI engineer
-- ⚡ Fun Fact: I once built an AI that detects deepfakes — because seeing isn't always believing
+- 🔭 Interning at **Hewlett Packard Enterprise** — cloud, virtualization & data center infra
+- 🤖 Passionate about **AI, ML, Deep Learning & Computer Vision**
+- 🛠️ Building projects across AI, cybersecurity & backend systems
+- ⚡ Fun fact: I built an AI that detects deepfakes — because seeing isn't always believing
 
 ---
 
@@ -90,14 +88,14 @@ I'm a **B.Tech CSE (AI & ML) student** in my 4th semester, currently interning a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Adaptive Cache Intelligence Simulator (ACIS)</h3>
-      <p>An intelligent cache management simulator that explores <strong>adaptive eviction mechanisms</strong> and optimization strategies — bridging OS theory with practical performance tuning.</p>
+      <h3>🧠 Adaptive Cache Intelligence Simulator</h3>
+      <p>Simulates adaptive cache eviction mechanisms and optimization strategies.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Algorithms-grey?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 AI-Based Insider Threat Detection System</h3>
-      <p>A machine learning system that detects <strong>anomalous user behavior</strong> and potential insider threats using behavioral analytics and classification models.</p>
+      <h3>🔐 AI Insider Threat Detection</h3>
+      <p>ML system that flags anomalous user behavior and potential insider threats.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Cybersecurity-grey?style=flat-square" />
@@ -105,15 +103,15 @@ I'm a **B.Tech CSE (AI & ML) student** in my 4th semester, currently interning a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📧 Email Spam & Phishing Detection (NLP)</h3>
-      <p>A <strong>Natural Language Processing</strong> classification model that identifies spam and phishing emails with high accuracy using text preprocessing and ML pipelines.</p>
+      <h3>📧 Email Spam & Phishing Detection</h3>
+      <p>NLP classifier that detects spam and phishing emails with high accuracy.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/NLP-grey?style=flat-square" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🎭 Deepfake Image & Video Detection</h3>
-      <p>A <strong>Computer Vision</strong> project that detects AI-manipulated media content using deep learning models — because seeing isn't always believing.</p>
+      <h3>🎭 Deepfake Detection</h3>
+      <p>Computer vision model that identifies AI-manipulated images and videos.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Computer Vision-grey?style=flat-square" />
@@ -122,7 +120,7 @@ I'm a **B.Tech CSE (AI & ML) student** in my 4th semester, currently interning a
   <tr>
     <td colspan="2" valign="top">
       <h3>🤖 Life OS – Personal AI Operating System</h3>
-      <p>An <strong>AI-powered assistant ecosystem</strong> focused on intelligent automation and task management — a personal productivity OS driven by AI agents.</p>
+      <p>AI-powered assistant ecosystem for intelligent automation and task management.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/AI Agents-grey?style=flat-square" />
       <img src="https://img.shields.io/badge/Automation-grey?style=flat-square" />
@@ -165,7 +163,6 @@ I'm a **B.Tech CSE (AI & ML) student** in my 4th semester, currently interning a
 
 </div>
 
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repository under `.github/workflows/snake.yml`.
 
 ---
 
