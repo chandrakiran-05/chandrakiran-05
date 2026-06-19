@@ -94,7 +94,7 @@ B.Tech CSE (AI & ML) student · HPE Intern · AI & Cloud enthusiast
       <img src="https://img.shields.io/badge/Algorithms-grey?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 AI Insider Threat Detection</h3>
+      <h3>🔐 AI Insider Threat Detection(On going)</h3>
       <p>ML system that flags anomalous user behavior and potential insider threats.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -110,22 +110,14 @@ B.Tech CSE (AI & ML) student · HPE Intern · AI & Cloud enthusiast
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🎭 Deepfake Detection</h3>
+      <h3>🎭 Deepfake Detection(On going)</h3>
       <p>Computer vision model that identifies AI-manipulated images and videos.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Computer Vision-grey?style=flat-square" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤖 Life OS – Personal AI Operating System</h3>
-      <p>AI-powered assistant ecosystem for intelligent automation and task management.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI Agents-grey?style=flat-square" />
-      <img src="https://img.shields.io/badge/Automation-grey?style=flat-square" />
-    </td>
-  </tr>
+  
 </table>
 
 ---
