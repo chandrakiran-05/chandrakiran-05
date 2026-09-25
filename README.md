@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/chandrakiran-05/chandrakiran-05/main/gradient_rule.svg" width="700" />
+
 <!-- NAME — Orbitron bold, static, always renders -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=CHANDRA+KIRAN" alt="Chandra Kiran" />
 
@@ -196,6 +198,8 @@
 
 <div align="center">
 <sub>✦ &nbsp; powered by caffeine &nbsp;·&nbsp; debugged by cats &nbsp;·&nbsp; shipped with love &nbsp; ✦</sub>
+<br/>
+<img src="https://raw.githubusercontent.com/chandrakiran-05/chandrakiran-05/main/gradient_rule.svg" width="700" />
 </div>
 
 <br/>
