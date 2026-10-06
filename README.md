@@ -47,7 +47,7 @@
 | 🏢 | **Ex-Intern @ HPE** — Cloud · Virtualization · Data Centers |
 | 🤖 | Into **AI · ML · Computer Vision · NLP · Cybersecurity** |
 | 🧩 | Now: **LeetCode DSA** grind + building projects |
-| 🌐 | [rudrachandrakiran.netlify.app](https://rudrachandrakiran.netlify.app/) |
+| 🌐 | [rudrachandrakiran.netlify.app](https://chandrakiranme.netlify.app/) |
 | ☕ | Caffeine-powered · cat-approved · ships at 2AM |
 
 </div>
