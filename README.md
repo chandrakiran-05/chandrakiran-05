@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/chandrakiran-05/chandrakiran-05/main/wave_top.svg" width="100%" />
+</div>
+
+<div align="center">
 
 <!-- NAME — Orbitron bold, static, always renders -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=CHANDRA+KIRAN" alt="Chandra Kiran" />
@@ -125,3 +129,7 @@
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/chandrakiran-05/chandrakiran-05/main/wave_bottom.svg" width="100%" />
+</div>
